@@ -3,14 +3,12 @@ This is my first project. Trying to build a google homepage.
 Easy Version (V1)
 Assignment Objectives 
 
-1) Insert Main Elements 
-	a) Logo Image
-	b) Search Form
-	c) Place elements horizontally
+1) Align/ Centre elements and content using the most basic beginner friendly way.
 
-2) Insert Navbar across top, horizontal CSS navbar
+	a) Also keeping the code semantically correct.
+	b) Avoiding the use of external libraries/ frameworks
+	
 
-3) Insert Footer
+2) Hover Effects 
 
-4) Push to Git and update
 

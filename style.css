@@ -1,41 +1,25 @@
-.main-grid {
-    display:grid;
-    grid-template-columns:auto;
-    grid-template-rows: auto;
-    grid-template-areas:
-    "header header header header"
-    "logo logo logo logo"
-    "searchbox searchbox searchbox searchbox"
-    ". searchbtn searchbtn ."
-    "footer footer footer footer"
 
+/* Navigation Bar Styles Start */
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: small;
 }
 
-.logo {
-    grid-area: logo;  
-    justify-self: center;
-    padding-top: 10.5%;
-}
-.search-box {
-    grid-area: searchbox;
-    justify-self:center;
-}
-#navbar-left {
-    grid-area: header;
-    justify-self: left;
-}
-#navbar-right {
-    grid-area: header;
-    justify-self: right;
-    
-}
-#ft-left {
-    grid-area: footer;
-    justify-self: left;
+li {
+    display: inline; 
 }
 
-#ft-right {
-    grid-area: footer;
-    justify-self: right;
+li a{
+    text-decoration: none;
+    color: #000;
 }
 
+.float-right {
+    float: right;
+}
+
+/* Navigation Bar Styles End */
