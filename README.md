@@ -12,5 +12,5 @@ Assignment Objectives
 
 3) Insert Footer
 
-4) Push to Git
+4) Push to Git and update
 
