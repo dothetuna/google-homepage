@@ -1,14 +1,16 @@
-This is my first project. Trying to build a google homepage.
+This is my first project. Trying to build the google homepage.
 
 Easy Version (V1)
-Assignment Objectives 
 
-1) Align/ Centre elements and content using the most basic beginner friendly way.
+Its not perfect but its my first attempt at a project, Took me a few days as I'm new to this however I've learned : 
 
-	a) Also keeping the code semantically correct.
-	b) Avoiding the use of external libraries/ frameworks
-	
+1) Positioning of elements using flex 
 
-2) Hover Effects 
+2) Positioning elements using margin/ padding
+ 
+3) Was stuck for hours trying to fix why navbar was constantly pushing elements below, finally figured out 
+Overflow:hidden 
+
+4)Spend way too long doing things incorrectly just to find out that there's more efficient and simpler ways. 
 
 
